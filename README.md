@@ -45,6 +45,29 @@ All data remains stored locally on the user's device.
 
 Currently in active development and testing.
 
+
+---
+
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/vaultix_home_elite.png)
+
+### PIN Lock
+![PIN Lock](screenshots/vaultix_pin_lock_elite_1080x1920.png)
+
+### Add Entry
+![Add Entry](screenshots/vaultix_add_entry_elite_v2.png)
+
+### View Entries
+![View Entries](screenshots/vaultix_view_entries_elite.png)
+
+### Recovery Screen
+![Recovery Screen](screenshots/vaultix_recovery_elite.png)
+
+### Change PIN
+![Change PIN](screenshots/vaultix_change_pin_elite.png)
+
 ---
 
 ## Developer
